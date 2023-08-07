@@ -1,6 +1,6 @@
 {
-    "name": "fly_nepal",
-    "short_name": "fly_nepal",
+    "name": "bha_roster",
+    "short_name": "bha_roster",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -32,4 +32,5 @@
             "purpose": "maskable"
         }
     ]
+    
 }
